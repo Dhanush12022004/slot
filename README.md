@@ -35,7 +35,7 @@ Execute the program using runserver command.
     <link rel="stylesheet" href="style.css">
 </head>
 <body style="background-color: cyan  (173, 230, 221);">
-    <p>Slot Time Table - Khabir Ahmed B (212221040083) </p>
+    <p>Slot Time Table - DHANUSH GR (212221040038) </p>
 
 <table border="1">
     <tr>
@@ -86,12 +86,52 @@ Execute the program using runserver command.
     </tr>
     
 </table>
-
+<table border="1" class="table2">
+    <tr>
+        <th>S.No.</th>
+        <th>Subject Code</th>
+        <th>Subject Name</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>19AI414</td>
+        <td>Fundamentals of Web Applications Development (WEB)</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>19CS409</td>
+        <td>Compiler Design (CD)</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>19CS521</td>
+        <td>Cryptography and Network Security (CNS)</td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>19CS512</td>
+        <td>MERN</td>
+    </tr>
+    
+   
+    <tr>
+        <td>5.</td>
+        <td>19CS407</td>
+        <td>Theory of Computation (TOC)</td>
+    </tr>
+    <tr>
+        <td>6.</td>
+        <td>19CS403</td>
+        <td>Programming Paradigms(java)</td>
+</table>
 </body>
 </html>
 ```
 
 ## OUTPUT
+
+![image](https://github.com/Dhanush12022004/slot/assets/128135558/70733fb4-6f13-459e-9ebe-ebeacc831f9e)
+
 
 
 ## RESULT
